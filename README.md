@@ -1,4 +1,6 @@
-### Hi there 👋
+### Good to see you! 👋 
+####  My name is Junho Choi, and I'm a college student 🌱
+####  Specially Interested in Backend Engineering and Machine Learning!
 
 <!--
 **junoade/junoade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
