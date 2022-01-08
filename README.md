@@ -8,7 +8,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Especially Interested in Backend Engineering and Machine Learning.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<b>Studying to be an proficient💪 software engineer who makes society much better place 🥰 with our codes 🧑‍💻 </b>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Studying to be an 💪 proficient software engineer who makes society much better place 🥰 with our codes 🧑‍💻 </b>
 <br/>
 <br/>
 <!-- ### 💪 Skills
