@@ -6,7 +6,7 @@
 ### Good to see you! 👋 
 &nbsp;&nbsp;&nbsp;&nbsp;My name is Junho Choi, and I'm a college student 🌱<br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Especially Interested in Backend Engineering and Machine Learning.
+&nbsp;&nbsp;&nbsp;&nbsp;Especially Interested in Backend Engineering.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<b>Studying to be an 💪 proficient software engineer who makes society much better place 🥰 with our codes 🧑‍💻 </b>
 <br/>
